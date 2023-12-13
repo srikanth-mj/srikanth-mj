@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @srikanth-mj
-- 👀 I’m interested in Cloud/DevOPs
+- 👀 I’m interested in Cloud/DevOps
 - 🌱 I’m currently learning GitLab
-- 💞️ I’m looking to collaborate on Cloud/DevOPs
+- 💞️ I’m looking to collaborate on Cloud/DevOps
 - 📫 How to reach me ...
 
 <!---
